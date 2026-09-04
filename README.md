@@ -3,7 +3,7 @@
 # Sistema Escolhido
 Facebook
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_de_Facebook.png" alt="Facebook" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_de_Facebook.png" alt="Facebook" width="150">
 
 # Descrição
 O Facebook é uma das maiores e mais populares redes sociais virtuais do mundo, lançada em 2004 por Mark Zuckerberg e seus colegas de quarto da Universidade de Harvard. Hoje, a plataforma pertence à Meta Platforms, Inc. e conecta bilhões de pessoas globalmente.
