@@ -37,3 +37,11 @@ Android e iOS (iPhone/iPad).
 - Dustin Moskovitz: Trabalhou como o primeiro diretor de tecnologia (CTO) e ajudou a programar a expansão da rede social para outras universidades;
 - Chris Hughes: Responsável pela parte de relações públicas, comunidade e atendimento aos usuários nos primeiros anos;
 - Andrew McCollum: Responsável por  desenhar o primeiro logotipo do site e desenvolveu o design visual da interface gráfica inicial.
+
+# Integrantes do Grupo
+- Felipe Ryan
+- Gabriel Aquino
+- Livia Ferreira
+- Matheus Almeida
+- Raphael Henrique
+- Vinícius Gregório
